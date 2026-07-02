@@ -1,0 +1,10 @@
+<test-run id="2" duration="3.219843" testcasecount="1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2026-07-02T02:27:37Z" end-time="2026-07-02T02:27:41Z">
+  <test-suite type="Assembly" name="SauceDemoTests.dll" fullname="/Users/paulsskiii/Coding Files/intellicare/day14/SauceDemoTests/bin/Debug/net10.0/SauceDemoTests.dll" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2026-07-02T02:27:37Z" end-time="2026-07-02T02:27:40Z" duration="3.219843">
+    <test-suite type="TestSuite" name="SauceDemoTests" fullname="SauceDemoTests" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2026-07-02T02:27:37Z" end-time="2026-07-02T02:27:40Z" duration="3.219843">
+      <test-suite type="TestFixture" name="SauceDemoLoginTests" fullname="SauceDemoTests.SauceDemoLoginTests" classname="SauceDemoTests.SauceDemoLoginTests" total="1" passed="1" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2026-07-02T02:27:37Z" end-time="2026-07-02T02:27:40Z" duration="3.219843">
+        <test-case name="ValidLogin_LandsOnProductsPage" fullname="SauceDemoTests.SauceDemoLoginTests.ValidLogin_LandsOnProductsPage" methodname="ValidLogin_LandsOnProductsPage" classname="SauceDemoLoginTests" result="Passed" start-time="2026-07-02T02:27:37Z" end-time="2026-07-02T02:27:40Z" duration="3.219843" asserts="0" seed="229982991" />
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>
